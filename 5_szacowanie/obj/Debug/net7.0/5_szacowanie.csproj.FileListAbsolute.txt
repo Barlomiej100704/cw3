@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\bin\Debug\net7.0\5_szacowanie.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\bin\Debug\net7.0\5_szacowanie.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\bin\Debug\net7.0\5_szacowanie.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\bin\Debug\net7.0\5_szacowanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\bin\Debug\net7.0\5_szacowanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\refint\5_szacowanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\5_szacowanie.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\5_szacowanie\obj\Debug\net7.0\ref\5_szacowanie.dll

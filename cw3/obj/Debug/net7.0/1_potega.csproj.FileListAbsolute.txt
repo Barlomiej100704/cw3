@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\bin\Debug\net7.0\1_potega.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\bin\Debug\net7.0\1_potega.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\bin\Debug\net7.0\1_potega.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\bin\Debug\net7.0\1_potega.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\bin\Debug\net7.0\1_potega.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\refint\1_potega.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\1_potega.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\cw3\obj\Debug\net7.0\ref\1_potega.dll

@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\bin\Debug\net7.0\10_przynajmniej_trzy_cyfry.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\bin\Debug\net7.0\10_przynajmniej_trzy_cyfry.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\bin\Debug\net7.0\10_przynajmniej_trzy_cyfry.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\bin\Debug\net7.0\10_przynajmniej_trzy_cyfry.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\bin\Debug\net7.0\10_przynajmniej_trzy_cyfry.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\refint\10_przynajmniej_trzy_cyfry.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\10_przynajmniej_trzy_cyfry.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\10_przynajmniej_trzy_cyfry\obj\Debug\net7.0\ref\10_przynajmniej_trzy_cyfry.dll

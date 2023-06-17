@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw3\\cw3\\cw3.csproj",
-      "projectName": "cw3",
-      "projectPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw3\\cw3\\cw3.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw3\\cw3\\1_potega.csproj",
+      "projectName": "1_potega",
+      "projectPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw3\\cw3\\1_potega.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw3\\cw3\\obj\\",
       "projectStyle": "PackageReference",

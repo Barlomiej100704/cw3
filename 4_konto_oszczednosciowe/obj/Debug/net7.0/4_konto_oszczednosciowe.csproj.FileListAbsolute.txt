@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\bin\Debug\net7.0\4_konto_oszczednosciowe.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\bin\Debug\net7.0\4_konto_oszczednosciowe.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\bin\Debug\net7.0\4_konto_oszczednosciowe.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\bin\Debug\net7.0\4_konto_oszczednosciowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\bin\Debug\net7.0\4_konto_oszczednosciowe.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\refint\4_konto_oszczednosciowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\4_konto_oszczednosciowe.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\4_konto_oszczednosciowe\obj\Debug\net7.0\ref\4_konto_oszczednosciowe.dll

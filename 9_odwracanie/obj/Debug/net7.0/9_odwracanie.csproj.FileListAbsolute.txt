@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\bin\Debug\net7.0\9_odwracanie.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\bin\Debug\net7.0\9_odwracanie.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\bin\Debug\net7.0\9_odwracanie.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\bin\Debug\net7.0\9_odwracanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\bin\Debug\net7.0\9_odwracanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\refint\9_odwracanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\9_odwracanie.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\9_odwracanie\obj\Debug\net7.0\ref\9_odwracanie.dll

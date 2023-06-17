@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\refint\8_zgadywanie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\8_zgadywanie\obj\Debug\net7.0\ref\8_zgadywanie.dll

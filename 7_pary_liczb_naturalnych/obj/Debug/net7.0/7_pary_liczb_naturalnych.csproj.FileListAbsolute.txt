@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\bin\Debug\net7.0\7_pary_liczb_naturalnych.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\bin\Debug\net7.0\7_pary_liczb_naturalnych.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\bin\Debug\net7.0\7_pary_liczb_naturalnych.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\bin\Debug\net7.0\7_pary_liczb_naturalnych.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\bin\Debug\net7.0\7_pary_liczb_naturalnych.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\refint\7_pary_liczb_naturalnych.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\7_pary_liczb_naturalnych.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\7_pary_liczb_naturalnych\obj\Debug\net7.0\ref\7_pary_liczb_naturalnych.dll

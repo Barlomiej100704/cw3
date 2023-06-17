@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\bin\Debug\net7.0\3_obliczenia.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\bin\Debug\net7.0\3_obliczenia.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\bin\Debug\net7.0\3_obliczenia.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\bin\Debug\net7.0\3_obliczenia.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\bin\Debug\net7.0\3_obliczenia.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\refint\3_obliczenia.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\3_obliczenia.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\3_obliczenia\obj\Debug\net7.0\ref\3_obliczenia.dll

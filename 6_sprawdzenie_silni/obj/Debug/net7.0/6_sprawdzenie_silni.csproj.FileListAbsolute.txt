@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\bin\Debug\net7.0\6_sprawdzenie_silni.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\bin\Debug\net7.0\6_sprawdzenie_silni.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\bin\Debug\net7.0\6_sprawdzenie_silni.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\bin\Debug\net7.0\6_sprawdzenie_silni.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\bin\Debug\net7.0\6_sprawdzenie_silni.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\refint\6_sprawdzenie_silni.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\6_sprawdzenie_silni.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw3\6_sprawdzenie_silni\obj\Debug\net7.0\ref\6_sprawdzenie_silni.dll
